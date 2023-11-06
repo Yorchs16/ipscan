@@ -8,7 +8,7 @@ package net.azib.ipscan.config;
 import java.util.prefs.Preferences;
 
 /**
- * Scanner configuration holder.
+ * Scanner configuration holder.8080
  *
  * @author Anton Keks
  */
